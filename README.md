@@ -1,2 +1,7 @@
-# pkn-grunt-sample-task
-Grunt Sample Task
+# pkn Grunt Sample Task
+
+$ grunt foo
+
+$ grunt foo:bar
+
+$grunt foo:bar:baz
